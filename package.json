@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/core-js": "^0.9.43",
+    "@types/isomorphic-fetch": "0.0.34",
+    "@types/react-redux": "^5.0.13",
+    "@types/react-router-dom": "^4.2.1",
+    "@types/redux": "^3.6.0",
+    "@types/redux-logger": "^3.0.5",
+    "@types/redux-thunk": "^2.1.0",
+    "material-ui": "^1.0.0-beta.21",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts-ts": "2.8.0"
+    "react-scripts-ts": "2.8.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
